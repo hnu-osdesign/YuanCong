@@ -1,6 +1,6 @@
 ## 1、什么是Rust的宏/Macro？
 
-![](C:\Users\Master\Desktop\println.png)
+![rust macro](http://blog.hubwiz.com/2020/01/30/rust-macro/println.png)
 
 如果你尝试过Rust，应该已经用过Rust的宏了：`println!`。这个宏 可以在终端输出一行文本，并且支持变量的插值。
 
